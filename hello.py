@@ -1,4 +1,8 @@
 print("Hello!")
 print("Hello, world!")
 print("Hello, universe!")
-
+print("Hola!")
+print("Hola, mundo!")
+print("Hola, universo!")
+print("Hola, multiverso!")
+print("Hello, multiverse!")
